@@ -20,11 +20,11 @@ public class Province {
         return id;
     }
 
-    public void setProvince(String province) {
+    public void setProvinceName(String province) {
         this.provinceName = province;
     }
 
-    public String getProvince() {
+    public String getProvinceName() {
         return provinceName;
     }
 
